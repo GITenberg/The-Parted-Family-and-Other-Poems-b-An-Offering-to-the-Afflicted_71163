@@ -1,0 +1,26 @@
+_repo: The-Parted-Family-and-Other-Poems-b-An-Offering-to-the-Afflicted_71163
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dana, Mary S. B.
+    gutenberg_agent_id: '56098'
+    url: http://www.gutenberg.org/2009/agents/56098
+description: ''
+gutenberg_issued: '2023-07-10'
+identifiers:
+  gutenberg: '71163'
+language: en
+pgterms:marc905: 20050804014655dana
+pgterms:marc906: '1841'
+pgterms:marc907: US
+production_note: Andrew Sly, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bDayton and Saxton, $c1841, pubdate 1842.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Parted Family and Other Poems : $b An Offering to the Afflicted'
+url: http://www.gutenberg.org/ebooks/71163
