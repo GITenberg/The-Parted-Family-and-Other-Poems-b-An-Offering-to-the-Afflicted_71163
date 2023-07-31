@@ -1,11 +1,16 @@
 _repo: The-Parted-Family-and-Other-Poems-b-An-Offering-to-the-Afflicted_71163
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71163-h/images/cover.jpg
 creator:
   author:
     agent_name: Dana, Mary S. B.
     gutenberg_agent_id: '56098'
     url: http://www.gutenberg.org/2009/agents/56098
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71163#The-Parted-Family-and-Other-Poems-b-An-Offering-to-the-Afflicted
 gutenberg_issued: '2023-07-10'
 identifiers:
   gutenberg: '71163'
